@@ -1,0 +1,17 @@
+theme: minima
+title: Indian Legal Updates
+description: Latest updates on Indian law with practical implications
+show_downloads: false
+google_analytics:
+header_pages:
+  - about.md
+  - categories.md
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Legal Team"
