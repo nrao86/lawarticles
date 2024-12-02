@@ -21,10 +21,14 @@ Your source for clear, practical analysis of legal developments in India.
 ## Latest Articles
 
 ### December 2024
+- [Supreme Court Clarifies Higher Courts' Power to Examine Jurisdictional Facts](2024-12-02-jurisdiction-examination-rights) - *December 2, 2024*
 - [Supreme Court Clarifies Contract Execution Requirements in Government Tenders](2024-12-02-contract-requirements) - *December 2, 2024*
 - [Supreme Court Sets Stricter Standards for Bail in NDPS Cases](Article_Dec_2) - *December 2, 2024*
 
 ### Categories
+
+#### Constitutional Law
+- [Higher Courts' Power to Examine Jurisdictional Facts](2024-12-02-jurisdiction-examination-rights)
 
 #### Commercial Law
 - [Contract Execution Requirements in Government Tenders](2024-12-02-contract-requirements)
